@@ -1,7 +1,7 @@
 function LivingRoom() {
   return (
     <div id="livingroom">
-        Living Room
+        <h2>Living Room</h2>
     </div>
   )
 }

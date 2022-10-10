@@ -6,7 +6,7 @@ function Kitchen(props) {
     <div id="kitchen">
       <Oven />
       <Sink />
-      <span>Kitchen</span>      
+      <span class="kitch">Kitchen</span>      
     </div>
   )
 }

@@ -87,4 +87,8 @@ div#kitchen span {
   grid-column: 2 / 3;  
 }
 
+.kitch {
+  font-size: 26px;
+  font-weight: bold;
+}
 
