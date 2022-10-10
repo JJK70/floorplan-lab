@@ -1,10 +1,11 @@
 import './App.css'
+import FloorPlan from './FloorPlan';
 // import FloorPlan from './FloorPlan'
 
 function App() {
   return (
     <div className="App">
-
+      <FloorPlan />
     </div>
   );
 }
