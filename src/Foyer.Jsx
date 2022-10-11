@@ -1,9 +1,11 @@
 function Foyer() {
   return (
     <div id="foyer">
-        <h2>Foyer</h2>
+        <span>Foyer</span>
     </div>
   )
 }
 
 export default Foyer
+
+

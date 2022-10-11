@@ -1,7 +1,11 @@
+import Closet from "./Closet"
+
+
 function Bedroom(props) {
   return (
     <div className="bedroom" id={`bed-${props.bedNum}`}>
-      <h2>Bedroom {props.bedNum}</h2>
+      <span>Bedroom {props.bedNum}</span>
+      <Closet />
     </div>
   )
 }
